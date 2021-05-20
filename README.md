@@ -1,13 +1,13 @@
-Hi there! 👋 
+Hi there! 👋
 
-- I'm @nahueloyha, a Cloud Engineer with a strong AWS experience ☁️
+- I'm @nahueloyha, a Cloud Engineer / DevOps with a strong AWS experience ☁️
 
-- Nowadays working @ [Edrans](edrans.com), leading teams for building some of the coolest Cloud infrastructures 👨‍💻
+- Nowadays leading teams @ Edrans, building some of the coolest Cloud Infrastructures 👨‍💻
 
-- Currently finishing Systems Engineering @ [UTN-FRBA](https://frba.utn.edu.ar/) 🤓
+- Currently finishing Systems Engineering @ UTN-FRBA, almost there! 🤓
 
-- On the veggie side 🌱, a yoga lover 🤸‍ and definitely in the summer team! ⛱️
+- Personally, on the veggie side 🌱, a yoga lover 🤸‍, and definitely in the summer team ⛱
 
-- Feel free to check more @ [nahueloyha.com](nahueloyha.com) 🔖
+- Feel free to check more @ nahueloyha.com 🔖
 
 Let's get in touch! 🚀

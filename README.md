@@ -2,7 +2,7 @@ Hi there! 👋
 
 - I'm @nahueloyha, a Cloud Engineer / DevOps with a strong AWS experience ☁️
 
-- Up until recently I was a Tech Lead @ [Edrans](https://edrans.com), helping teams to build some of the coolest Cloud Infrastructures 👨‍💻
+- Until recently I was a Tech Lead @ [Edrans](https://edrans.com), helping teams to build some of the coolest Cloud Infrastructures 👨‍💻
 
 - Currently finishing Systems Engineering @ [UTN-FRBA](https://www.frba.utn.edu.ar), almost there! 🤓
 

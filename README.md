@@ -8,6 +8,4 @@ Hi there! 👋
 
 - Personally, on the veggie side 🌱, a sports lover (🚴/🤸‍/⛷), and definitely in the #summer team ⛱
 
-- Feel free to check more @ [nahueloyha.com](https://nahueloyha.com) 🔖
-
-Let's get in touch! 🚀
+Let's get in touch @ [nahueloyha.com](https://nahueloyha.com) 🚀

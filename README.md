@@ -1,6 +1,6 @@
 Hi there! 👋
 
-- I'm @nahueloyha, a Systems Engineer from [UTN-FRBA](https://www.frba.utn.edu.ar), with a strong AWS experience ☁️
+- I'm @nahueloyha, a Systems Engineer from [UTN-FRBA](https://www.frba.utn.edu.ar), with a strong DevOps an AWS experience ☁️
 
 - Up until recently I was a Cloud Engineer @ [Edrans](https://edrans.com), helping teams to build some of the coolest Cloud Infrastructures 👨‍💻
 
